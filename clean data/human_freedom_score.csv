@@ -1,0 +1,163 @@
+,countries,region,hf_score
+0,Albania,Eastern Europe,7.81
+11,Algeria,Middle East & North Africa,5.2
+22,Angola,Sub-Saharan Africa,5.48
+33,Argentina,Latin America & the Caribbean,7.05
+44,Armenia,Caucasus & Central Asia,7.69
+55,Australia,Oceania,8.68
+66,Austria,Western Europe,8.45
+77,Azerbaijan,Caucasus & Central Asia,6.29
+88,"Bahamas, The",Latin America & the Caribbean,7.72
+99,Bahrain,Middle East & North Africa,6.18
+110,Bangladesh,South Asia,5.67
+121,Barbados,Latin America & the Caribbean,6.99
+132,Belarus,Eastern Europe,6.67
+143,Belgium,Western Europe,8.28
+154,Belize,Latin America & the Caribbean,6.92
+165,Benin,Sub-Saharan Africa,6.81
+176,Bhutan,South Asia,6.52
+187,Bolivia,Latin America & the Caribbean,6.78
+198,Bosnia and Herzegovina,Eastern Europe,7.34
+209,Botswana,Sub-Saharan Africa,7.35
+220,Brazil,Latin America & the Caribbean,6.83
+231,Brunei Darussalam,South Asia,6.01
+242,Bulgaria,Eastern Europe,7.93
+253,Burkina Faso,Sub-Saharan Africa,6.6
+264,Burundi,Sub-Saharan Africa,5.42
+275,Cabo Verde,Sub-Saharan Africa,7.75
+286,Cambodia,South Asia,6.83
+297,Cameroon,Sub-Saharan Africa,5.46
+308,Canada,North America,8.64
+319,Central African Republic,Sub-Saharan Africa,5.25
+330,Chad,Sub-Saharan Africa,5.59
+341,Chile,Latin America & the Caribbean,8.18
+352,China,East Asia,6.07
+363,Colombia,Latin America & the Caribbean,6.85
+374,"Congo, Dem. Rep.",Sub-Saharan Africa,5.29
+385,"Congo, Rep.",Sub-Saharan Africa,5.51
+396,Costa Rica,Latin America & the Caribbean,7.84
+407,Cote d'Ivoire,Sub-Saharan Africa,6.51
+418,Croatia,Eastern Europe,7.92
+429,Cyprus,Eastern Europe,8.05
+440,Czech Republic,Eastern Europe,8.29
+451,Denmark,Western Europe,8.73
+462,Dominican Republic,Latin America & the Caribbean,7.37
+473,Ecuador,Latin America & the Caribbean,7.14
+484,"Egypt, Arab Rep.",Middle East & North Africa,4.67
+495,El Salvador,Latin America & the Caribbean,7.03
+506,Estonia,Eastern Europe,8.54
+517,Eswatini,Sub-Saharan Africa,6.02
+528,Ethiopia,Sub-Saharan Africa,5.4
+539,Fiji,Oceania,6.98
+550,Finland,Western Europe,8.49
+561,France,Western Europe,8.05
+572,Gabon,Sub-Saharan Africa,6.14
+583,"Gambia, The",Sub-Saharan Africa,6.27
+594,Georgia,Caucasus & Central Asia,7.87
+605,Germany,Western Europe,8.52
+616,Ghana,Sub-Saharan Africa,7.04
+627,Greece,Eastern Europe,7.38
+638,Guatemala,Latin America & the Caribbean,7.21
+649,Guinea,Sub-Saharan Africa,5.45
+660,Guinea-Bissau,Sub-Saharan Africa,6.15
+671,Guyana,Latin America & the Caribbean,7.0
+682,Haiti,Latin America & the Caribbean,6.68
+693,Honduras,Latin America & the Caribbean,6.94
+704,"Hong Kong SAR, China",East Asia,8.74
+715,Hungary,Eastern Europe,7.61
+726,Iceland,Western Europe,8.39
+737,India,South Asia,6.43
+748,Indonesia,South Asia,7.07
+759,"Iran, Islamic Rep.",Middle East & North Africa,4.53
+770,Iraq,Middle East & North Africa,4.9
+781,Ireland,Western Europe,8.62
+792,Israel,Middle East & North Africa,7.44
+803,Italy,Western Europe,8.12
+814,Jamaica,Latin America & the Caribbean,7.44
+825,Japan,East Asia,8.49
+836,Jordan,Middle East & North Africa,6.92
+847,Kazakhstan,Caucasus & Central Asia,6.99
+858,Kenya,Sub-Saharan Africa,6.75
+869,"Korea, Rep.",East Asia,8.27
+880,Kuwait,Middle East & North Africa,6.39
+891,Kyrgyz Republic,Caucasus & Central Asia,7.05
+902,Lao PDR,South Asia,6.16
+913,Latvia,Eastern Europe,8.34
+924,Lebanon,Middle East & North Africa,6.7
+935,Lesotho,Sub-Saharan Africa,6.6
+946,Liberia,Sub-Saharan Africa,6.4
+957,Libya,Middle East & North Africa,4.83
+968,Lithuania,Eastern Europe,8.37
+979,Luxembourg,Western Europe,8.49
+990,Madagascar,Sub-Saharan Africa,6.54
+1001,Malawi,Sub-Saharan Africa,6.57
+1012,Malaysia,South Asia,6.9
+1023,Mali,Sub-Saharan Africa,5.92
+1034,Malta,Western Europe,8.33
+1045,Mauritania,Sub-Saharan Africa,5.39
+1056,Mauritius,Sub-Saharan Africa,7.55
+1067,Mexico,Latin America & the Caribbean,6.85
+1078,Moldova,Eastern Europe,7.18
+1089,Mongolia,East Asia,7.61
+1100,Montenegro,Eastern Europe,7.46
+1111,Morocco,Middle East & North Africa,6.28
+1122,Mozambique,Sub-Saharan Africa,6.64
+1133,Myanmar,South Asia,5.45
+1144,Namibia,Sub-Saharan Africa,6.92
+1155,Nepal,South Asia,6.76
+1166,Netherlands,Western Europe,8.48
+1177,New Zealand,Oceania,8.87
+1188,Nicaragua,Latin America & the Caribbean,6.54
+1199,Niger,Sub-Saharan Africa,5.97
+1210,Nigeria,Sub-Saharan Africa,6.05
+1221,North Macedonia,Eastern Europe,7.4
+1232,Norway,Western Europe,8.45
+1243,Oman,Middle East & North Africa,6.03
+1254,Pakistan,South Asia,5.64
+1265,Panama,Latin America & the Caribbean,7.87
+1276,Papua New Guinea,Oceania,6.72
+1287,Paraguay,Latin America & the Caribbean,7.19
+1298,Peru,Latin America & the Caribbean,7.68
+1309,Philippines,South Asia,6.9
+1320,Poland,Eastern Europe,7.72
+1331,Portugal,Western Europe,8.27
+1342,Qatar,Middle East & North Africa,6.07
+1353,Romania,Eastern Europe,8.09
+1364,Russian Federation,Eastern Europe,6.31
+1375,Rwanda,Sub-Saharan Africa,6.97
+1386,Saudi Arabia,Middle East & North Africa,5.29
+1397,Senegal,Sub-Saharan Africa,6.66
+1408,Serbia,Eastern Europe,7.34
+1419,Seychelles,Sub-Saharan Africa,7.34
+1430,Sierra Leone,Sub-Saharan Africa,6.21
+1441,Singapore,South Asia,8.21
+1452,Slovak Republic,Eastern Europe,7.95
+1463,Slovenia,Eastern Europe,8.05
+1474,South Africa,Sub-Saharan Africa,7.07
+1485,Spain,Western Europe,8.2
+1496,Sri Lanka,South Asia,6.72
+1507,Sudan,Sub-Saharan Africa,4.01
+1518,Suriname,Latin America & the Caribbean,7.31
+1529,Sweden,Western Europe,8.52
+1540,Switzerland,Western Europe,8.82
+1551,Syrian Arab Republic,Middle East & North Africa,3.97
+1562,Taiwan,East Asia,8.42
+1573,Tajikistan,Caucasus & Central Asia,5.77
+1584,Tanzania,Sub-Saharan Africa,6.28
+1595,Thailand,South Asia,6.37
+1606,Timor-Leste,South Asia,6.89
+1617,Togo,Sub-Saharan Africa,6.13
+1628,Trinidad and Tobago,Latin America & the Caribbean,7.13
+1639,Tunisia,Middle East & North Africa,6.04
+1650,Turkey,Middle East & North Africa,6.27
+1661,Uganda,Sub-Saharan Africa,6.58
+1672,Ukraine,Eastern Europe,6.45
+1683,United Arab Emirates,Middle East & North Africa,6.17
+1694,United Kingdom,Western Europe,8.44
+1705,United States,North America,8.44
+1716,Uruguay,Latin America & the Caribbean,7.92
+1727,"Venezuela, RB",Latin America & the Caribbean,4.08
+1738,Vietnam,South Asia,6.25
+1749,"Yemen, Rep.",Middle East & North Africa,4.17
+1760,Zambia,Sub-Saharan Africa,6.71
+1771,Zimbabwe,Sub-Saharan Africa,5.59
