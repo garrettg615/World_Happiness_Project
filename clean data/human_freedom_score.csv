@@ -1,0 +1,163 @@
+countries,region,hf_score
+Albania,Eastern Europe,7.81
+Algeria,Middle East & North Africa,5.2
+Angola,Sub-Saharan Africa,5.48
+Argentina,Latin America & the Caribbean,7.05
+Armenia,Caucasus & Central Asia,7.69
+Australia,Oceania,8.68
+Austria,Western Europe,8.45
+Azerbaijan,Caucasus & Central Asia,6.29
+"Bahamas, The",Latin America & the Caribbean,7.72
+Bahrain,Middle East & North Africa,6.18
+Bangladesh,South Asia,5.67
+Barbados,Latin America & the Caribbean,6.99
+Belarus,Eastern Europe,6.67
+Belgium,Western Europe,8.28
+Belize,Latin America & the Caribbean,6.92
+Benin,Sub-Saharan Africa,6.81
+Bhutan,South Asia,6.52
+Bolivia,Latin America & the Caribbean,6.78
+Bosnia and Herzegovina,Eastern Europe,7.34
+Botswana,Sub-Saharan Africa,7.35
+Brazil,Latin America & the Caribbean,6.83
+Brunei Darussalam,South Asia,6.01
+Bulgaria,Eastern Europe,7.93
+Burkina Faso,Sub-Saharan Africa,6.6
+Burundi,Sub-Saharan Africa,5.42
+Cabo Verde,Sub-Saharan Africa,7.75
+Cambodia,South Asia,6.83
+Cameroon,Sub-Saharan Africa,5.46
+Canada,North America,8.64
+Central African Republic,Sub-Saharan Africa,5.25
+Chad,Sub-Saharan Africa,5.59
+Chile,Latin America & the Caribbean,8.18
+China,East Asia,6.07
+Colombia,Latin America & the Caribbean,6.85
+"Congo, Dem. Rep.",Sub-Saharan Africa,5.29
+"Congo, Rep.",Sub-Saharan Africa,5.51
+Costa Rica,Latin America & the Caribbean,7.84
+Cote d'Ivoire,Sub-Saharan Africa,6.51
+Croatia,Eastern Europe,7.92
+Cyprus,Eastern Europe,8.05
+Czech Republic,Eastern Europe,8.29
+Denmark,Western Europe,8.73
+Dominican Republic,Latin America & the Caribbean,7.37
+Ecuador,Latin America & the Caribbean,7.14
+"Egypt, Arab Rep.",Middle East & North Africa,4.67
+El Salvador,Latin America & the Caribbean,7.03
+Estonia,Eastern Europe,8.54
+Eswatini,Sub-Saharan Africa,6.02
+Ethiopia,Sub-Saharan Africa,5.4
+Fiji,Oceania,6.98
+Finland,Western Europe,8.49
+France,Western Europe,8.05
+Gabon,Sub-Saharan Africa,6.14
+"Gambia, The",Sub-Saharan Africa,6.27
+Georgia,Caucasus & Central Asia,7.87
+Germany,Western Europe,8.52
+Ghana,Sub-Saharan Africa,7.04
+Greece,Eastern Europe,7.38
+Guatemala,Latin America & the Caribbean,7.21
+Guinea,Sub-Saharan Africa,5.45
+Guinea-Bissau,Sub-Saharan Africa,6.15
+Guyana,Latin America & the Caribbean,7.0
+Haiti,Latin America & the Caribbean,6.68
+Honduras,Latin America & the Caribbean,6.94
+"Hong Kong SAR, China",East Asia,8.74
+Hungary,Eastern Europe,7.61
+Iceland,Western Europe,8.39
+India,South Asia,6.43
+Indonesia,South Asia,7.07
+"Iran, Islamic Rep.",Middle East & North Africa,4.53
+Iraq,Middle East & North Africa,4.9
+Ireland,Western Europe,8.62
+Israel,Middle East & North Africa,7.44
+Italy,Western Europe,8.12
+Jamaica,Latin America & the Caribbean,7.44
+Japan,East Asia,8.49
+Jordan,Middle East & North Africa,6.92
+Kazakhstan,Caucasus & Central Asia,6.99
+Kenya,Sub-Saharan Africa,6.75
+"Korea, Rep.",East Asia,8.27
+Kuwait,Middle East & North Africa,6.39
+Kyrgyz Republic,Caucasus & Central Asia,7.05
+Lao PDR,South Asia,6.16
+Latvia,Eastern Europe,8.34
+Lebanon,Middle East & North Africa,6.7
+Lesotho,Sub-Saharan Africa,6.6
+Liberia,Sub-Saharan Africa,6.4
+Libya,Middle East & North Africa,4.83
+Lithuania,Eastern Europe,8.37
+Luxembourg,Western Europe,8.49
+Madagascar,Sub-Saharan Africa,6.54
+Malawi,Sub-Saharan Africa,6.57
+Malaysia,South Asia,6.9
+Mali,Sub-Saharan Africa,5.92
+Malta,Western Europe,8.33
+Mauritania,Sub-Saharan Africa,5.39
+Mauritius,Sub-Saharan Africa,7.55
+Mexico,Latin America & the Caribbean,6.85
+Moldova,Eastern Europe,7.18
+Mongolia,East Asia,7.61
+Montenegro,Eastern Europe,7.46
+Morocco,Middle East & North Africa,6.28
+Mozambique,Sub-Saharan Africa,6.64
+Myanmar,South Asia,5.45
+Namibia,Sub-Saharan Africa,6.92
+Nepal,South Asia,6.76
+Netherlands,Western Europe,8.48
+New Zealand,Oceania,8.87
+Nicaragua,Latin America & the Caribbean,6.54
+Niger,Sub-Saharan Africa,5.97
+Nigeria,Sub-Saharan Africa,6.05
+North Macedonia,Eastern Europe,7.4
+Norway,Western Europe,8.45
+Oman,Middle East & North Africa,6.03
+Pakistan,South Asia,5.64
+Panama,Latin America & the Caribbean,7.87
+Papua New Guinea,Oceania,6.72
+Paraguay,Latin America & the Caribbean,7.19
+Peru,Latin America & the Caribbean,7.68
+Philippines,South Asia,6.9
+Poland,Eastern Europe,7.72
+Portugal,Western Europe,8.27
+Qatar,Middle East & North Africa,6.07
+Romania,Eastern Europe,8.09
+Russian Federation,Eastern Europe,6.31
+Rwanda,Sub-Saharan Africa,6.97
+Saudi Arabia,Middle East & North Africa,5.29
+Senegal,Sub-Saharan Africa,6.66
+Serbia,Eastern Europe,7.34
+Seychelles,Sub-Saharan Africa,7.34
+Sierra Leone,Sub-Saharan Africa,6.21
+Singapore,South Asia,8.21
+Slovak Republic,Eastern Europe,7.95
+Slovenia,Eastern Europe,8.05
+South Africa,Sub-Saharan Africa,7.07
+Spain,Western Europe,8.2
+Sri Lanka,South Asia,6.72
+Sudan,Sub-Saharan Africa,4.01
+Suriname,Latin America & the Caribbean,7.31
+Sweden,Western Europe,8.52
+Switzerland,Western Europe,8.82
+Syrian Arab Republic,Middle East & North Africa,3.97
+Taiwan,East Asia,8.42
+Tajikistan,Caucasus & Central Asia,5.77
+Tanzania,Sub-Saharan Africa,6.28
+Thailand,South Asia,6.37
+Timor-Leste,South Asia,6.89
+Togo,Sub-Saharan Africa,6.13
+Trinidad and Tobago,Latin America & the Caribbean,7.13
+Tunisia,Middle East & North Africa,6.04
+Turkey,Middle East & North Africa,6.27
+Uganda,Sub-Saharan Africa,6.58
+Ukraine,Eastern Europe,6.45
+United Arab Emirates,Middle East & North Africa,6.17
+United Kingdom,Western Europe,8.44
+United States,North America,8.44
+Uruguay,Latin America & the Caribbean,7.92
+"Venezuela, RB",Latin America & the Caribbean,4.08
+Vietnam,South Asia,6.25
+"Yemen, Rep.",Middle East & North Africa,4.17
+Zambia,Sub-Saharan Africa,6.71
+Zimbabwe,Sub-Saharan Africa,5.59
